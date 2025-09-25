@@ -149,7 +149,7 @@ void printCalendar(int year)
             getMonthName(i)); 
 
         // Print the columns 
-        printf(" Sun Mon Tue Wed Thu Fri Sat\n"); 
+        printf(" Sun  Mon  Tue  Wed  Thu  Fri  Sat\n"); 
 
         // Print appropriate spaces 
         int k; 
@@ -174,11 +174,13 @@ void printCalendar(int year)
     return; 
 } 
 
-// Driver Code 
 int main() 
 { 
-    int year = 2016; 
+    int year;
+    printf("Enter the year:");
+    scanf("%d",&year);
     // Function Call 
     printCalendar(year); 
     return 0; 
+
 }
