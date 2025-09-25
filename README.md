@@ -14,112 +14,11 @@ C Programming
 
 
 
-
 ## Sample Output
-
-Enter the year:2025
-     Calendar - 2025
-
-
- ------------January-------------
- Sun Mon Tue Wed Thu Fri Sat
-                   1    2    3    4
-    5    6    7    8    9   10   11
-   12   13   14   15   16   17   18
-   19   20   21   22   23   24   25
-   26   27   28   29   30   31
-
- ------------February-------------
- Sun Mon Tue Wed Thu Fri Sat
-                                  1
-    2    3    4    5    6    7    8
-    9   10   11   12   13   14   15
-   16   17   18   19   20   21   22
-   23   24   25   26   27   28
-
- ------------March-------------
- Sun Mon Tue Wed Thu Fri Sat
-                                  1
-    2    3    4    5    6    7    8
-    9   10   11   12   13   14   15
-   16   17   18   19   20   21   22
-   23   24   25   26   27   28   29
-   30   31
-
- ------------April-------------
- Sun Mon Tue Wed Thu Fri Sat
-              1    2    3    4    5
-    6    7    8    9   10   11   12
-   13   14   15   16   17   18   19
-   20   21   22   23   24   25   26
-   27   28   29   30
-
- ------------May-------------
- Sun Mon Tue Wed Thu Fri Sat
-                        1    2    3
-    4    5    6    7    8    9   10
-   11   12   13   14   15   16   17
-   18   19   20   21   22   23   24
-   25   26   27   28   29   30   31
-
- ------------June-------------
- Sun Mon Tue Wed Thu Fri Sat
-    1    2    3    4    5    6    7
-    8    9   10   11   12   13   14
-   15   16   17   18   19   20   21
-   22   23   24   25   26   27   28
-   29   30
-
- ------------July-------------
- Sun Mon Tue Wed Thu Fri Sat
-              1    2    3    4    5
-    6    7    8    9   10   11   12
-   13   14   15   16   17   18   19
-   20   21   22   23   24   25   26
-   27   28   29   30   31
-
- ------------August-------------
- Sun Mon Tue Wed Thu Fri Sat
-                             1    2
-    3    4    5    6    7    8    9
-   10   11   12   13   14   15   16
-   17   18   19   20   21   22   23
-   24   25   26   27   28   29   30
-   31
-
- ------------September-------------
- Sun Mon Tue Wed Thu Fri Sat
-         1    2    3    4    5    6
-    7    8    9   10   11   12   13
-   14   15   16   17   18   19   20
-   21   22   23   24   25   26   27
-   28   29   30
-
- ------------October-------------
- Sun Mon Tue Wed Thu Fri Sat
-                   1    2    3    4
-    5    6    7    8    9   10   11
-   12   13   14   15   16   17   18
-   19   20   21   22   23   24   25
-   26   27   28   29   30   31
-
- ------------November-------------
- Sun Mon Tue Wed Thu Fri Sat
-                                  1
-    2    3    4    5    6    7    8
-    9   10   11   12   13   14   15
-   16   17   18   19   20   21   22
-   23   24   25   26   27   28   29
-   30
-
- ------------December-------------
- Sun Mon Tue Wed Thu Fri Sat
-         1    2    3    4    5    6
-    7    8    9   10   11   12   13
-   14   15   16   17   18   19   20
-   21   22   23   24   25   26   27
-   28   29   30   31
-
+<img width="781" height="775" alt="image" src="https://github.com/user-attachments/assets/6624305f-ac14-4ea9-b52f-a359eb30de58" />
+<img width="775" height="668" alt="image" src="https://github.com/user-attachments/assets/7e671865-cafe-4229-91e3-ac49f2ddd03d" />
+<img width="777" height="686" alt="image" src="https://github.com/user-attachments/assets/19f3ec68-e53e-4fe6-a8a7-9531d4fda42d" />
+<img width="776" height="717" alt="image" src="https://github.com/user-attachments/assets/01b19309-82b0-4a7a-8ed7-58e658a7e2b6" />
 
 
 
@@ -129,3 +28,4 @@ Enter the year:2025
 - Loops and conditional statements
 - Handling leap years
 - Formatted console output
+
